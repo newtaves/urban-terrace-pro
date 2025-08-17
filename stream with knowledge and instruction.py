@@ -16,9 +16,9 @@ from langchain_core.messages import HumanMessage, AIMessage
 from dotenv import load_dotenv
 load_dotenv()
 
-WATSONX_API_KEY = os.getenv("WATSONX_API_KEY", "your_api_key_here")
-WATSONX_PROJECT_ID = os.getenv("WATSONX_PROJECT_ID", "your_project_id_here")
-WATSONX_SERVICE_URL = os.getenv("WATSONX_SERVICE_URL", "https://api.watsonx.ai")
+WATSONX_API_KEY = st.secrets["WATSONX_API_KEY"]
+WATSONX_PROJECT_ID = st.secrets["WATSONX_PROJECT_ID"]
+WATSONX_SERVICE_URL = st.secrets["WATSONX_SERVICE_URL"]
 
 # Choose a vision-enabled foundation model.
 # 'meta-llama/llama-3-2-90b-vision-instruct' or 'ibm/granite-vision-3-2-2b' are examples.
@@ -226,3 +226,4 @@ if chat_model:
                 st.rerun()
 else:
     st.warning("Chatbot not initialized. Please check the console for errors and ensure your Watsonx.ai credentials are correct.")
+
