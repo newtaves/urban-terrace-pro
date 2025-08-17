@@ -1,0 +1,202 @@
+# Introduction to Urban Terrace Farming
+
+Urban terrace farming, also known as rooftop or balcony gardening, involves cultivating plants, vegetables, herbs, and sometimes fruits on terraces, balconies, rooftops, or other elevated urban spaces. It maximizes limited space in cities, promotes sustainability, and provides fresh produce. Key principles include efficient use of vertical space, water conservation, and integration with urban ecosystems.
+
+Benefits:
+
+- Reduces food miles and carbon footprint.
+- Improves air quality by absorbing CO2 and releasing oxygen.
+- Enhances mental health through gardening activities.
+- Saves money on groceries.
+- Supports biodiversity in urban areas.
+
+Challenges:
+
+- Limited space and sunlight.
+- Weight restrictions on structures.
+- Exposure to urban pollution and wind.
+- Water access and drainage issues.
+
+## Planning and Design
+
+1. Assess Your Space:
+
+   - Measure the terrace area, note sunlight hours (aim for 6-8 hours daily for most crops).
+   - Check structural load-bearing capacity (consult an engineer if needed; typical safe weight: 150-200 kg/m² for plants and soil).
+   - Evaluate wind exposure and install windbreaks if necessary.
+
+2. Layout Design:
+
+   - Use vertical gardening: trellises, hanging pots, wall planters.
+   - Incorporate raised beds or containers to avoid direct soil contact with terrace surface.
+   - Plan for pathways and accessibility.
+   - Integrate composting units and rainwater harvesting systems.
+
+3. Zoning:
+
+   - Sunny zones for sun-loving plants (tomatoes, peppers).
+   - Shaded zones for greens (lettuce, spinach).
+   - Protected areas for delicate herbs.
+
+## Soil and Containers
+
+Soil Preparation:
+
+- Use lightweight potting mix: 1/3 compost, 1/3 perlite/vermiculite, 1/3 garden soil or coco peat to ensure drainage and reduce weight.
+- pH level: 6.0-7.0 for most vegetables.
+- Add organic matter like worm castings for nutrients.
+- Avoid heavy clay soils to prevent waterlogging.
+
+Containers:
+
+- Materials: Plastic, terracotta, fabric pots, recycled items (e.g., buckets, tires).
+- Size: At least 15-20 cm deep for roots; larger for root vegetables.
+- Ensure drainage holes to prevent root rot.
+- Self-watering containers for efficient irrigation.
+
+Composting:
+
+- Set up a vermicompost bin using earthworms to recycle kitchen waste.
+- Compost tea as natural fertilizer.
+
+## Plant Selection
+
+Suitable Crops for Urban Terraces:
+
+- Vegetables: Tomatoes, chilies, beans, radishes, carrots, eggplant.
+- Leafy Greens: Lettuce, spinach, kale, Swiss chard.
+- Herbs: Basil, mint, coriander, rosemary, thyme.
+- Fruits: Strawberries, dwarf citrus trees, blueberries in pots.
+- Microgreens: Quick-growing like arugula, mustard for small spaces.
+
+Seasonal Considerations:
+
+- Summer: Heat-tolerant like okra, cucumbers.
+- Winter: Cold-hardy like broccoli, cabbage.
+- Year-round: Perennials like herbs.
+
+Companion Planting:
+
+- Pair basil with tomatoes to repel pests.
+- Marigolds to deter nematodes.
+- Avoid planting fennel near others as it inhibits growth.
+
+## Watering and Irrigation
+
+Water Management:
+
+- Water deeply but infrequently to encourage deep roots.
+- Morning watering to reduce evaporation.
+- Mulch with straw or leaves to retain moisture.
+
+Irrigation Systems:
+
+- Drip irrigation for efficiency (saves 50-70% water).
+- Rainwater harvesting: Collect from rooftops.
+- Check soil moisture with finger test (top 2-5 cm dry before watering).
+
+Overwatering Signs: Yellow leaves, wilting. Underwatering Signs: Dry, crispy leaves.
+
+## Nutrient Management and Fertilization
+
+Nutrients Needed:
+
+- Nitrogen (N) for leaves: From compost or blood meal.
+- Phosphorus (P) for roots/flowers: Bone meal.
+- Potassium (K) for fruits: Wood ash or banana peels.
+
+Organic Fertilizers:
+
+- Apply every 4-6 weeks.
+- Foliar sprays for quick absorption.
+
+Deficiency Symptoms:
+
+- Nitrogen: Yellow older leaves.
+- Phosphorus: Purple stems.
+- Potassium: Brown leaf edges.
+
+## Pest and Disease Management
+
+Common Pests:
+
+- Aphids: Spray neem oil or soapy water.
+- Spider mites: Increase humidity.
+- Caterpillars: Handpick or use Bacillus thuringiensis (Bt).
+
+Diseases:
+
+- Powdery mildew: Improve air circulation, use baking soda spray.
+- Root rot: Ensure good drainage.
+- Blight: Rotate crops, remove infected parts.
+
+Integrated Pest Management (IPM):
+
+- Encourage beneficial insects (ladybugs, bees).
+- Use traps and barriers.
+- Avoid chemical pesticides to protect urban wildlife.
+
+## Harvesting and Maintenance
+
+Harvesting Tips:
+
+- Pick regularly to encourage production (e.g., beans every 2-3 days).
+- Use clean tools to avoid disease spread.
+- Store in cool, dry places.
+
+Maintenance:
+
+- Prune for airflow and shape.
+- Rotate pots for even sunlight.
+- Weed regularly.
+- Monitor for structural issues.
+
+## Sustainability Practices
+
+- Use recycled materials for pots and supports.
+- Solar-powered pumps for irrigation.
+- Pollinator-friendly plants to support bees.
+- Zero-waste: Compost all organic matter.
+
+## Common Mistakes and Troubleshooting
+
+1. Overcrowding: Leads to poor growth; space plants 15-30 cm apart.
+2. Poor Drainage: Causes root issues; always add gravel at pot bottom.
+3. Ignoring Sunlight: Track sun patterns seasonally.
+4. Neglecting Soil Health: Test soil annually.
+5. Water Inconsistency: Use timers for automation.
+
+Troubleshooting Image Analysis:
+
+- Yellow Leaves: Nutrient deficiency or overwatering.
+- Wilting: Underwatering or root-bound.
+- Spots on Leaves: Fungal infection or pests.
+- Stunted Growth: Poor soil or insufficient light.
+
+## Advanced Topics
+
+Hydroponics/Aquaponics:
+
+- Soil-less systems for terraces with weight limits.
+- NFT (Nutrient Film Technique) for greens.
+
+Vertical Farming Tech:
+
+- LED grow lights for low-sun areas.
+- Sensors for moisture, pH monitoring.
+
+Community Aspects:
+
+- Share produce with neighbors.
+- Join urban farming groups for knowledge exchange.
+
+Regulations:
+
+- Check local building codes for rooftop loads.
+- Ensure no water runoff pollution.
+
+## Resources
+
+- Books: "The Urban Farmer" by Curtis Stone.
+- Websites: USDA Urban Agriculture, ATTRA Sustainable Agriculture.
+- Apps: Plant identification like PictureThis, watering reminders.
