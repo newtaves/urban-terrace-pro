@@ -1,0 +1,5 @@
+streamlit
+langchain-ibm
+ibm-watsonx-ai
+python-dotenv
+Pillow
