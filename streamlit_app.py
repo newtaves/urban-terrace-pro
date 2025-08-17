@@ -123,7 +123,7 @@ What are you interested in growing first? I can provide more specific advice on 
 # --- Streamlit Application ---
 
 st.set_page_config(page_title="Urban terrace farming pro", layout="centered")
-st.title("💬 Your terrace farming expert. I stop solution to all terrace gardern problems")
+st.title("💬 Your terrace farming expert. One stop solution to all terrace gardern problems")
 st.markdown("Type a message or upload an image to start a conversation!")
 
 # Initialize the Watsonx Chat Model only once
@@ -226,4 +226,5 @@ if chat_model:
                 st.rerun()
 else:
     st.warning("Chatbot not initialized. Please check the console for errors and ensure your Watsonx.ai credentials are correct.")
+
 
